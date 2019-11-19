@@ -1,0 +1,14 @@
+.Navbar {
+    width: 100%;
+    background: #1c3643;
+    padding: 0.5 rem 0;
+  }
+  .Navbar__brand {
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+  }
+  .Navbar__brand-logo {
+    background: #244355;
+    padding: 2px;
+  }
